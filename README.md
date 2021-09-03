@@ -13,5 +13,18 @@ type NativeModuleYobidashiType = {
 
 iOS, Android でそれぞれ Native Module を実装し、`yarn ios` と `yarn andorid` で起動できれば OK です
 
+##　Clone & Install
+```shell
+git clone git@github.com:grgr-dkrk/ReactNativeHaTsuraiLesson.git
+# ghq
+ghq get git@github.com:grgr-dkrk/ReactNativeHaTsuraiLesson.git
+```
+
+```shell
+# In ReactNativeHaTsuraiLesson/
+yarn
+npx pod-install
+```
+
 ## 資料
 [仮](https://hackmd.io/@grgrdkrk/HJL_dpwWY)
